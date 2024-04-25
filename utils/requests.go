@@ -60,7 +60,7 @@ loop:
 					return
 				}
 			}(GetRandomUserID(users))
-			time.Sleep(10 * time.Nanosecond)
+			time.Sleep(1 * time.Microsecond)
 		}
 		time.Sleep(1 * time.Second)
 		select {

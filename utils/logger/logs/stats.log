@@ -1,0 +1,33 @@
+Processing utils/logger/logs/nolua.log
+
+nolua_5 made 1396 req
+nolua_1 made 1405 req
+nolua_2 made 1427 req
+nolua_3 made 1404 req
+nolua_4 made 1409 req
+-------------------------
+Average requests per user: 1408.2
+-------------------------
+
+Processing utils/logger/logs/lua.log
+
+lua_1   made 1333 req
+lua_2   made 1347 req
+lua_3   made 1336 req
+lua_4   made 1331 req
+lua_5   made 1349 req
+-------------------------
+Average requests per user: 1339.2
+-------------------------
+
+Processing utils/logger/logs/luasha.log
+
+luasha_1 made 1337 req
+luasha_2 made 1327 req
+luasha_3 made 1347 req
+luasha_4 made 1341 req
+luasha_5 made 1327 req
+-------------------------
+Average requests per user: 1335.8
+-------------------------
+
